@@ -14,23 +14,30 @@ Implement a lane detection pipeline with OpenCV.
 
 <img src="images/advanced_lane.gif" style="width:400px;" />
 
-### 3. Traffic Sign Classier
+### 3. [Traffic Sign Classier](https://github.com/shengchen-liu/CarND-Traffic-Sign-Classifier-Project)
+
+Build a Traffic Sign Recognition Model with Tensorflow.
+
+<img src="images/traffic_sign.png" style="width:400px;" />
+
+### 4. [Vehicle Detection](https://github.com/shengchen-liu/CarND_vehicle_Detection)
+
+Develop a pipeline to reliably detect cars given a video from a roof-mounted camera.
+
+<img src="images/vehicle_detection.gif" style="width:400px;" />
+
+### 5. [Behavioral Cloning](https://github.com/shengchen-liu/CarND-Behavioral-Cloning-P3-master)
+
+Build a convolution neural network in Keras that predicts steering angles from images.  Test that the model successfully drives around track one without leaving the road.
+
+<img src="images/behavioral.gif" style="width:400px;" />
 
 
+### 6. [Extended Kalman Filter](https://github.com/shengchen-liu/CarND-Extended-Kalman-Filter-Project)
 
-### 4. Vehicle Detection
+Utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
-
-
-### 5. Behavioral Cloning
-
-
-
-### 6. Extended Kalman Filter
-
-
-
-
+<img src="images/ekf.gif" style="width:400px;" />
 
 ### 7. [Localization: Kidnapped Vehicle](https://github.com/shengchen-liu/CarND-Kidnapped-Vehicle-Project-master) 
 
